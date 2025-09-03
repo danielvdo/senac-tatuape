@@ -13,3 +13,4 @@ exemplos:  2    /    2         >        2     /     4
 os caches é um "suporte" para processador carregar mais rápido
 deve calcular cache L2 + cache L3 para resultado do total do cache
 os caches ajuda a diminuir a latencia e isso aumenta desepenho
+
