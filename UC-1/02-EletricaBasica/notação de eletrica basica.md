@@ -3,9 +3,9 @@
 
 ### Fios:
 
-Amarelos = 12W OBS: liga o processador e a placa de video
----
-Vermelhos = 5W OBS: liga o HD e alimenta a memória 
----
-Laranja = 3.3W OBS: liga um HD, SSD e memória e placa de video
----
+**Amarelos** = 12W **OBS**: liga o processador e a placa de video
+
+**Vermelhos** = 5W **OBS**: liga o HD e alimenta a memória 
+
+**Laranja** = 3.3W **OBS**: liga um HD, SSD e memória e placa de video
+
