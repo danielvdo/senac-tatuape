@@ -1,6 +1,8 @@
 ### FONTES
 **Fontes**: os fios (cabos) da fontes atuais são pretos ou algumas cores, mas tem mesma função do que a original
 
+---
+
 ### Fios:
 
 **Amarelos** = 12W **OBS**: liga o processador e a placa de video
