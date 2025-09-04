@@ -63,3 +63,7 @@ Para calcular o **cache total**, some **L2 + L3**.
 - O **TDP** indica o consumo máximo de energia que o processador pode demandar da fonte.  
 - Exemplo:  
   - Um processador com **TDP: 120W** → significa que pode chegar até **120W** de consumo.
+
+
+
+
