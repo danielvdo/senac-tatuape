@@ -17,8 +17,15 @@ os caches é um "suporte" para processador carregar mais rápido
 deve calcular cache L2 + cache L3 para resultado do total do cache
 os caches ajuda a diminuir a latencia e isso aumenta desepenho
 
-**OSB**: os caches é melhor em jogos e nucleos e threads são melhor em trabalho
+**OBS**: os caches é melhor em jogos e nucleos e threads são melhor em trabalho
+
+ cache L1 = é existe dentro de cada nucleo;
+ cache L2 = é cache que ajuda dentro de cada nucleo;
+ cache L3 = é usando em todos os nucleos.
+
+**transistor** = cada vez que é pequeno é melhor, porque esquenta menos.
+
+ **TDP**: TDP no processador é o consome a energia da fonte exemplo: se processador tem TDP:120w, então processador maximo de energia que processador pode chegar é 120w. 
 
 
-
-
+ 
