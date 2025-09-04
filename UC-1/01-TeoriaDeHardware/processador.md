@@ -17,5 +17,8 @@ os caches é um "suporte" para processador carregar mais rápido
 deve calcular cache L2 + cache L3 para resultado do total do cache
 os caches ajuda a diminuir a latencia e isso aumenta desepenho
 
+**OSB**: os caches é melhor em jogos e nucleos e threads são melhor em trabalho
+
+
 
 
