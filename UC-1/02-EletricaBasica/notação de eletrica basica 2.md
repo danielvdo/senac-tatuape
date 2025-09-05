@@ -2,7 +2,7 @@ tomada recebe nome de **AC** que no português é **CA** que significa **corrent
 
 **entrada/imput**:
 
-100V-240V
+100V-240V, do 100 vai até 130 e 200 vai até 240, mas a faixa correta para ambos é 127 e 220
 
 ---
 
