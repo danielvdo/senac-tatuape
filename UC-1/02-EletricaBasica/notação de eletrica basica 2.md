@@ -18,12 +18,14 @@ tomada recebe nome de **AC** que no português é **CA** que significa **corrent
 
 🔺 faz triangulo faz um T para dividir 3 parte e essas partes vão ser:
 
-**V**olts = tensão eletrica 
+**U** (V) Volts = tensão eletrica 
 
-**Ω**omega = resistencia
+**R** (Ω) omega = resistencia
 
-**I** corrente = corrente eletrica
+**I** (A) corrente = corrente eletrica
 
 **de cima para baixo (vertical) é dividido e de esquerda para direita (horizontal) é mutiplicado**
 
 **OBS**: a corrente nunca será maior que tensão porque se ela for maior OU igual ela pode dar curto circuito
+
+**2OBS**: geralmente não vai ter corrente, então vai ser **X**
