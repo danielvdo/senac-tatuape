@@ -40,7 +40,7 @@ X - topo de linha (X670 e X870)
 
 **USB 2.0**: É USB normais
 
-**PAINEL FRONTAL**: São conectores para ligar o pc, reninciar, mostra o led e etc
+**PAINEL FRONTAL** (JFP): São conectores para ligar o pc, reninciar, mostra o led e etc
 
 **CHIPSET**: Gerencia toda a placa mãe (é o coração)
 
@@ -62,6 +62,7 @@ X - topo de linha (X670 e X870)
 <img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/298d0865-614d-4df6-ab73-c66af69df63d" />
 
 ### A620M:
-![Placa-Mãe MSI Pro A620M-E-Aula](https://github.com/user-attachments/assets/d5a361b0-83ad-4267-b303-3df123bdebdb)
+![Placa-Mãe MSI Pro A620M-E-Aula](https://github.com/user-attachments/assets/0ddd5693-3a25-428d-a11c-038c61a55a98)
+
 
 
