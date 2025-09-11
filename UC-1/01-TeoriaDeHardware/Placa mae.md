@@ -50,7 +50,7 @@ X - topo de linha (X670 e X870)
 
 **PCI EXPRESS 4X**: É conector para placa de captura e outros (parece ser de placa de video mas de energia é diferente)
 
-**JAUD**: É o audio da propria placa mãe
+**JAUD**: É o audio da propria placa mãe (plug-in de audio na frente do computador)
 
 **BATERIA**: Modelo sempre é **CF2032**
 
