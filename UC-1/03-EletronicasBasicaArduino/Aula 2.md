@@ -8,3 +8,5 @@
 **HIGH E LOW**: ambos serve para liga e desliga (low para desliga e o high para deixa ligado)
 
 **OBS**: sempre coloca o numero para falar o fio e pode fazer o comando na aquele fio (exemplo: pinMode (13, output); e etc), também sempre coloca o ";" no final de todo codigo que for fazer no arduino
+
+**2OBS**: sempre fazer comentarios e salva em algum arquivo e coloca no github para servir de **EXEMPLO**.
