@@ -63,6 +63,8 @@ Z - topo de linha (Z alguma coisa) "Só overlock"
 
 **BATERIA**: Modelo sempre é **CF2032**
 
+**T-SENSOR**: Em alguma placas mães tem elas e elas servem para ver temperatura do computador
+
 ---
 
 ## PLACA MÃES DE EXEMPLO:
