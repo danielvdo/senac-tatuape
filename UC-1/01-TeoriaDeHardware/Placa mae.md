@@ -78,5 +78,6 @@ Z - topo de linha (Z alguma coisa) "Só overlock"
 ### h810:
 ![placa-mae-asus-prime-h810m-a-chipset-h810-intel-lga-1851](https://github.com/user-attachments/assets/62bbb625-a608-4f04-83c6-d167abbae920)
 
-
+### z890:
+![placa-mae-asus-rog-strix-z890-e-gaming-wifi-chipset-z890-intel-lga-1851-atx-ddr5_217043](https://github.com/user-attachments/assets/86708994-e4fb-4a1c-9366-1bce5b247112)
 
