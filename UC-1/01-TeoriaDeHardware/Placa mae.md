@@ -75,5 +75,8 @@ Z - topo de linha (Z alguma coisa) "Só overlock"
 ### A620M:
 ![Placa-Mãe MSI Pro A620M-E-Aula](https://github.com/user-attachments/assets/0ddd5693-3a25-428d-a11c-038c61a55a98)
 
+### h810:
+![placa-mae-asus-prime-h810m-a-chipset-h810-intel-lga-1851](https://github.com/user-attachments/assets/62bbb625-a608-4f04-83c6-d167abbae920)
+
 
 
