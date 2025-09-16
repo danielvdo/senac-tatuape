@@ -1,8 +1,8 @@
-## PLACA MÃES PARA AMD
+## PLACA MÃES
 
 AMD  **AM5** (ryzen 7000, 8000, 9000)
 
-A - entrada (A620)
+A - entrada (A620) "não overclock"
 
 B - intermediaria (B650, B840 e B850)
 
@@ -11,6 +11,15 @@ X - topo de linha (X670 e X870)
 +++++ **ASUS**, **GIGABYTE - AORUS** - **MSI** - **ASrock** (placas de marcas altas)
 
 +++ **BIOSTAR** - **COLORFUL** (marcas simples)
+
+Intel
+
+H - entrada (H alguma coisa) 
+
+B - intermediaria (B alguma coisa)
+
+Z - topo de linha (Z alguma coisa) "Só overlock"
+
 
 **OBS**: placa mãe **NÃO** muda o desepenho, só tem mudanças dos **RECURSOS** das placa mães
 
