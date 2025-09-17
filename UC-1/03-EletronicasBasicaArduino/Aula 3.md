@@ -8,4 +8,4 @@ Antes de medir uma tomada utilizer 600 no **~V** para ver a voltagem dela e se f
    
 **-...V**= é continua (positivo e negativo)
 
-
+**OBS**: geralmente nas baterias você coloca -..V (voltagem continua) e mede no lado negativo e positivo
