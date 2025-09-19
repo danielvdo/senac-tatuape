@@ -6,5 +6,7 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 --- 
 
+## TECNOLOGIA DA PLACA DE VIDEO
+
 **Ray tracing**: ray tracing é algo que ajuda melhorar o grafico do jogo e deixa mais realista possivel, mas tem queda de desepenho
 
