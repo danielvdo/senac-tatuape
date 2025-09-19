@@ -1,4 +1,4 @@
-## PLACA DE VIDEO
+### PLACA DE VIDEO
 
 as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.0, 3.0, 4.0 e 5.0 e essas variações são os encaixe na placa mãe (que no caso é PCI EX 16X), eles também algo no lado que é 4x 8x e 16x que são os conectores que vão utilizar
 
@@ -6,7 +6,7 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 --- 
 
-## TECNOLOGIA DA PLACA DE VIDEO
+### TECNOLOGIA DA PLACA DE VIDEO
 
 **Ray tracing**: ray tracing é algo que ajuda melhorar o grafico do jogo e deixa mais realista possivel, mas tem queda de desepenho
 
