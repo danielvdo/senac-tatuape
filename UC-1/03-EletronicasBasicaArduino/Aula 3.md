@@ -1,6 +1,6 @@
 ## multímetro
 
-O que você vai utilizar é **COM** e **V/mA/Ω** no multímetro
+O que você vai utilizar é **COM** (preto) e **V/mA/Ω** (vermelho) no multímetro
 
 **V** = voltagem
 
