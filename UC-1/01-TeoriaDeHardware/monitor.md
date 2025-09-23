@@ -8,6 +8,6 @@
 
 **IPS** = IPS tem cores mais vivas
 
-**LED**= é literalmente led, mas é recomendado fica movendo a tela para não deixa marcado algo na tela (que no caso queima)
+**OLED**= é literalmente led, mas é recomendado fica movendo a tela para não deixa marcado algo na tela (que no caso queima)
 
 **OBS**: se o a tela tive muita polegadas pode afastar os pixel e isso trás desfoco no jogo
