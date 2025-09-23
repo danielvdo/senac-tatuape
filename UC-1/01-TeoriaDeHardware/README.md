@@ -1,1 +1,11 @@
-Direitório da UC-1 (componentes do computador)
+# Componentes do computador
+- processador (CPU)
+- placa mãe
+- placa de video (GPU)
+- memoria ram 
+- armazenamento
+- fonte
+- gabinete
+- air cooler e cooler fans 
+- monitores, teclado e mouse
+- sistemas operacionais
