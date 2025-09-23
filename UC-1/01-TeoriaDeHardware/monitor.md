@@ -4,7 +4,7 @@
 
 **Hz** = é frequencia do monitor que troca de quadros e responde para você (cada vez é bom), MAS os olhos humano pode limitar
 
-**VA** = VA tem cores mais são escuros
+**VA** = VA tem cores mais são escuros (tem curva)
 
 **IPS** = IPS tem cores mais vivas
 
