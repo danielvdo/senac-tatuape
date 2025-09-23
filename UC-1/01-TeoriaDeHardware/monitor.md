@@ -1,6 +1,6 @@
 ## MONITOR
 
-**ms** = é resposta do monitor
+**ms** = é tempo de resposta do monitor
 
 **Hz** = é frequencia do monitor que troca de quadros e responde para você (cada vez é bom), MAS os olhos humano pode limitar
 
