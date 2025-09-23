@@ -10,7 +10,7 @@
 
 **OLED**= é literalmente led, mas é recomendado fica movendo a tela para não deixa marcado algo na tela (que no caso queima)
 
-**HDR**: é brilho claro, mas não é util para jogos e 100 não é nada, mas 400 é HDR (serve para tanto para monitor e tanto para TV)
+**HDR**: é brilho claro, mas não é util para jogos e 100 não é nada, mas 400 é HDR (serve mais para TV do que monitor e é mais para fica como cinema)
 
 **OBS**: se o a tela tive muita polegadas pode afastar os pixel e isso trás desfoco no jogo
 
