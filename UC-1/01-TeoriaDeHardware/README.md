@@ -1,4 +1,4 @@
-# Componentes do computador
+# Sobre componentes do computador
 - processador (CPU)
 - placa mãe
 - placa de video (GPU)
