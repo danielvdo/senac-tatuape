@@ -1,1 +1,1 @@
-Direitório da UC-1
+Direitório da UC-1 (componentes do computador)
