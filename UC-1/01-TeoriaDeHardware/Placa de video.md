@@ -12,3 +12,5 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **OBS**: não adianta ter uma placa de video bom e ter um monitor ruim
 
+**2OBS**: se tive uma resolução alta posso perder desepenho dependendo
+
