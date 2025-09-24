@@ -1,3 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/danielvdo/senac-tatuape?style=for-the-badge)
+
+
 # Curso Técnico em Informática - Senac Tatuapé
 
 Este repositório reúne conteúdos de estudo, atividades práticas e materiais de apoio desenvolvidos durante o **Curso Técnico em Informática** no **Senac Tatuapé**.  
