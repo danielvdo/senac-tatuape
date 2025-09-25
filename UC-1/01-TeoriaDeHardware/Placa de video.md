@@ -10,7 +10,7 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **Ray tracing**: ray tracing é algo que ajuda melhorar o grafico do jogo e deixa mais realista possivel, mas tem queda de desepenho
 
-**DLSS/FSR/XeSS**: aumenta o FPS (taxa de quadros) gerado por IA e reduz a resolução menor, mas mostra resolução maior
+**DLSS/FSR/XeSS**: aumenta o FPS (taxa de quadros) gerado por IA e reduz a resolução menor, mas gera uma imagem alta
 
 **frame generation**: é um tempo de quadro que a IA fica gerando na tela, mas ao ativar pode dar Imput Lag
 
