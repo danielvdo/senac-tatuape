@@ -10,4 +10,6 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **Ray tracing**: ray tracing é algo que ajuda melhorar o grafico do jogo e deixa mais realista possivel, mas tem queda de desepenho
 
+**DLSS/FSR/XRS**: aumente o fps (taxa de quadros)
+
 **OBS**: não adianta ter uma placa de video bom e ter um monitor ruim
