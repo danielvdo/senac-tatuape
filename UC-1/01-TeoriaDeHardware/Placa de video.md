@@ -14,7 +14,7 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **frame generation**: é um tempo de quadro que a IA fica gerando, mas ao ativar pode dar Imput Lag
 
-**tearing**: é um rasgo na tela que pode ser ajustado se você ativar V-sync ou Free sync
+**tearing**: é um rasgo na tela que pode ser ajustado se você ativar V-sync ou Free sync para dar taxa de quadros até onde monitor aguentar
 
 **OBS**: não adianta ter uma placa de video bom e ter um monitor ruim
 
