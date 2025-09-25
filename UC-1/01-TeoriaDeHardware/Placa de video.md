@@ -10,8 +10,10 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **Ray tracing**: ray tracing é algo que ajuda melhorar o grafico do jogo e deixa mais realista possivel, mas tem queda de desepenho
 
-**DLSS/FSR/XeSS**: aumente o FPS (taxa de quadros), ele pega resolução atual ou baixa e aumenta uma acima
+**DLSS/FSR/XeSS**: aumenta o FPS (taxa de quadros), ele pega resolução atual ou baixa e aumenta uma acima
+
+**frame generation**: aumenta FPS gerador por IA e ele pode dar imput lag 
 
 **OBS**: não adianta ter uma placa de video bom e ter um monitor ruim
 
-**2OBS**: cuidado com frame fake, pode atrapalha seu jogo e ainda pode dar imput lag mesmo com FPS alto
+**2OBS**: recomendado ativa o frame generation se o jogo estiver 60 FPS para não dar imput lag
