@@ -18,4 +18,4 @@ as placa de video tem algo chamado **PCI** que tem suas variações tipo 1.0, 2.
 
 **OBS**: não adianta ter uma placa de video bom e ter um monitor ruim
 
-**2OBS**: recomendado ativa o frame generation se o jogo estiver 60 FPS para não dar imput lag, menos do que isso pode ocorrer
+**2OBS**: recomendado ativa o frame generation se o jogo estiver 60 FPS de verdade sem ativar nada para não dar Imput Lag, menos do que isso pode ocorrer
