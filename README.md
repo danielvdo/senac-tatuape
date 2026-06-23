@@ -20,10 +20,10 @@ O objetivo é documentar cada **Unidade Curricular (UC)**, facilitando o acompan
 ---
 
 ##  Objetivo do Repositório
-- Organizar os conteúdos estudados em sala de aula  
-- Facilitar a documentação de procedimentos técnicos  
-- Servir como material de consulta e prática contínua  
+- **Estudos**: Anotações e materiais de apoio
+- **Registro das aulas**: registrar as aulas e que foi entendido
 
 ---
+## LEIA
 
-**Este arquivo README.md será atualizado gradativamente conforme novas UCs forem estudadas e documentadas ao longo do curso.**
+as notações estão na **WIKI** acesse para ver as anotações
